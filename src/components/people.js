@@ -1,4 +1,4 @@
-export default people = [
+let people = [
   {
     id: 1,
     name: "Watson",
@@ -41,3 +41,5 @@ export default people = [
       "Now that you have a solid understanding of both the importance of good reviews and actual examples of real reviews, it’s time to focus on generating more of them. There are a lot of different ways that you can help control the narrative in your reviews, but here are three critical areas you can’t ignore.",
   },
 ];
+
+export default people;

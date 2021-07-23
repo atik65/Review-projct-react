@@ -1,7 +1,12 @@
 import "./App.css";
+import Review from "./components/Review";
 
 function App() {
-  return "hello";
+  return (
+    <>
+      <Review />
+    </>
+  );
 }
 
 export default App;
